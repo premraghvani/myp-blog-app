@@ -1,0 +1,17 @@
+{
+  "name": "mypapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prem Raghvani MYP",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "bcryptjs": "^2.4.3",
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1"
+  }
+}
